@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\w0_grid.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\w0_grid.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\w04_delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\w04_delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\w04_delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\w04_delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\w03_update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\w03_update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\w03_update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\w03_update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\w02_retreive.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\w02_retreive.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\w02_retreive.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\w02_retreive.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\w01_insert.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\w01_insert.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\w01_insert.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\w01_insert.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\w0_grid.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\w0_grid.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|c:\\users\\kanaka\\source\\repos\\crud_withgridview_sqldatasource\\crud_withgridview_sqldatasource\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{52801CCB-58D3-4812-8382-8797BB98DAE6}|CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource.csproj|solutionrelative:crud_withgridview_sqldatasource\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "W04_DELETE.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W04_DELETE.aspx.cs",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\W04_DELETE.aspx.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W04_DELETE.aspx.cs",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\W04_DELETE.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:06:10.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "W04_DELETE.aspx",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W04_DELETE.aspx",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\W04_DELETE.aspx",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W04_DELETE.aspx",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\W04_DELETE.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-06T07:06:09.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "W03_UPDATE.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W03_UPDATE.aspx.cs",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\W03_UPDATE.aspx.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W03_UPDATE.aspx.cs",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\W03_UPDATE.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:06:07.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "W03_UPDATE.aspx",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W03_UPDATE.aspx",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\W03_UPDATE.aspx",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W03_UPDATE.aspx",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\W03_UPDATE.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-06T07:06:05.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "W02_RETREIVE.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W02_RETREIVE.aspx.cs",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\W02_RETREIVE.aspx.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W02_RETREIVE.aspx.cs",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\W02_RETREIVE.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:06:03.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "W02_RETREIVE.aspx",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W02_RETREIVE.aspx",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\W02_RETREIVE.aspx",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W02_RETREIVE.aspx",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\W02_RETREIVE.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-06T07:06:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "W01_INSERT.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W01_INSERT.aspx.cs",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\W01_INSERT.aspx.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W01_INSERT.aspx.cs",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\W01_INSERT.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:05:58.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "W01_INSERT.aspx",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W01_INSERT.aspx",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\W01_INSERT.aspx",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W01_INSERT.aspx",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\W01_INSERT.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-06T07:05:56.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "W0_GRID.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W0_GRID.aspx.cs",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\W0_GRID.aspx.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W0_GRID.aspx.cs",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\W0_GRID.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:05:54.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "W0_GRID.aspx",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W0_GRID.aspx",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\W0_GRID.aspx",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\W0_GRID.aspx",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\W0_GRID.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-06T07:01:48.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\Site1.Master",
+              "RelativeDocumentMoniker": "CRUD_withGridView_SQLDataSource\\Site1.Master",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\CRUD_withGridView_SQLDataSource\\CRUD_withGridView_SQLDataSource\\Site1.Master",
+              "RelativeToolTip": "CRUD_withGridView_SQLDataSource\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-06T07:05:31.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

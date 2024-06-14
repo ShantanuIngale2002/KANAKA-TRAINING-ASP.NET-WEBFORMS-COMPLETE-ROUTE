@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanaka\\source\\repos\\BasicCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE520100-5721-4C0C-9DC4-82C2BC4D1D48}|BasicCSharp\\BasicCSharp.csproj|c:\\users\\kanaka\\source\\repos\\basiccsharp\\basiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE520100-5721-4C0C-9DC4-82C2BC4D1D48}|BasicCSharp\\BasicCSharp.csproj|solutionrelative:basiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\source\\repos\\BasicCSharp\\BasicCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "BasicCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\kanaka\\source\\repos\\BasicCSharp\\BasicCSharp\\Program.cs",
+              "RelativeToolTip": "BasicCSharp\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:05:57.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

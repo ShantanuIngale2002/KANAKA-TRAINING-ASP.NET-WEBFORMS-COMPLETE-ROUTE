@@ -1,0 +1,7 @@
+C:\Users\kanaka\source\repos\BasicCSharp\BasicCSharp\bin\Debug\BasicCSharp.exe.config
+C:\Users\kanaka\source\repos\BasicCSharp\BasicCSharp\bin\Debug\BasicCSharp.exe
+C:\Users\kanaka\source\repos\BasicCSharp\BasicCSharp\bin\Debug\BasicCSharp.pdb
+C:\Users\kanaka\source\repos\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.csproj.AssemblyReference.cache
+C:\Users\kanaka\source\repos\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.csproj.CoreCompileInputs.cache
+C:\Users\kanaka\source\repos\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.exe
+C:\Users\kanaka\source\repos\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.pdb

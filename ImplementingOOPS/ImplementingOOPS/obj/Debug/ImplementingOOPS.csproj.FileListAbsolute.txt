@@ -1,0 +1,7 @@
+C:\Users\kanaka\source\repos\ImplementingOOPS\ImplementingOOPS\obj\Debug\ImplementingOOPS.csproj.AssemblyReference.cache
+C:\Users\kanaka\source\repos\ImplementingOOPS\ImplementingOOPS\obj\Debug\ImplementingOOPS.csproj.CoreCompileInputs.cache
+C:\Users\kanaka\source\repos\ImplementingOOPS\ImplementingOOPS\bin\Debug\ImplementingOOPS.exe.config
+C:\Users\kanaka\source\repos\ImplementingOOPS\ImplementingOOPS\bin\Debug\ImplementingOOPS.exe
+C:\Users\kanaka\source\repos\ImplementingOOPS\ImplementingOOPS\bin\Debug\ImplementingOOPS.pdb
+C:\Users\kanaka\source\repos\ImplementingOOPS\ImplementingOOPS\obj\Debug\ImplementingOOPS.exe
+C:\Users\kanaka\source\repos\ImplementingOOPS\ImplementingOOPS\obj\Debug\ImplementingOOPS.pdb

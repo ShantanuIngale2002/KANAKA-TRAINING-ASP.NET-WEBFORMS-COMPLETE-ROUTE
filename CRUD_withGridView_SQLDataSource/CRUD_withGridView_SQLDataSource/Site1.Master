@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="CRUD_withGridView_SQLDataSource.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style001 {
+            text-align: center;
+            font-size: x-large;
+            text-transform: capitalize;
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            font-style: italic;
+            font-weight: bold;
+            height: 62px;
+            margin:30px;
+        }
+    </style>
+</head>
+<body style="width: 1081px">
+    <div class="auto-style001">
+        This is header
+    </div>
+    <form id="form1" runat="server">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            
+        </asp:ContentPlaceHolder>
+    </form>
+    <div style="margin-top:40px" class="footer">
+        Perform CRUD w/o Grid here :
+            <a style="margin:10px" href="W0_GRID.aspx">Grid System</a>
+            <a style="margin:10px" href="W01_INSERT.aspx">Insert</a>
+            <a style="margin:10px" href="W02_RETREIVE.aspx">Retrieve</a>
+            <a style="margin:10px" href="W03_UPDATE.aspx">Update</a>
+            <a style="margin:10px" href="W04_DELETE.aspx">Delete</a>
+    </div>
+    <div class="auto-style001">
+        PERFORMING CRUD OPERATIONS
+    </div>
+</body>
+</html>

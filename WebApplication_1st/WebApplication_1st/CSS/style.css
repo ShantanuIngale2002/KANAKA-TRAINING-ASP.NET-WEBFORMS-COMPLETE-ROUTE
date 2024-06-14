@@ -1,0 +1,10 @@
+﻿body {
+    background-color:turquoise;
+    display:flex;
+    justify-content:center;
+}
+.wrapper{
+    border: 2px ridge purple;
+    text-align:center;
+    width:auto;
+}
